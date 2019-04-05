@@ -1,0 +1,25 @@
+Leganés::Atlético Madrid::15::1
+Real Madrid::Valladolid::2::0
+Valencia::Girona::0::1
+Rayo Vallecano::Barcelona::2::3
+Eibar::Alavés::2::1
+Reus::Lugo::0::0
+Numancia::Tenerife::2::0
+Osasuna::Málaga::2::1
+Córdoba::Extremadura::4::2
+Las Palmas::Deportivo::1::1
+Cádiz::Elche::5::1
+Oviedo::Mallorca::1::1
+Barcelona::Mallorca::2::3
+Barcelona::Mallorca::2::3
+Barcelona::Deportivo::2::3
+Lugo::Oviedo::2::3
+Girona::Barcelona::2::3
+Barcelona::Oviedo::2::3
+Barcelona::Eibar::2::3
+Valladolid::Barcelona::2::3
+Barcelona::Oviedo::2::3
+Leganés::Barcelona::2::3
+Barcelona::Leganés::2::1
+Ostadar::Barcelona::10::0
+barcelona::real sociedad::2::5

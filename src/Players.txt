@@ -1,0 +1,36 @@
+player1::Leganés::1::1::football
+player2::Leganés::2::2::football
+player3::Atlético Madrid::3::3::football
+player4::Real Madrid::4::4::football
+player5::Real Madrid::5::5::football
+player6::Leganés::6::6::football
+player7::Real Madrid::7::7::football
+player8::Valladolid::8::8::football
+player9::Rayo Vallecano::9::9::football
+player10::Rayo Vallecano::10::10::football
+player11::Barcelona::11::11::football
+player12::Eibar::12::12::football
+player13::Osasuna::13::13::football
+player14::Leganés::14::14::football
+player15::Valladolid::15::15::football
+player16::Córdoba::16::16::football
+player17::Córdoba::17::17::football
+player18::Las Palmas::18::18::football
+player19::Leganés::19::19::football
+player20::Osasuna::20::20::football
+player21::Deportivo::21::21::football
+player22::Las Palmas::22::22::football
+player23::Deportivo::23::23::football
+player24::Deportivo::24::24::football
+player25::Elche::25::25::football
+player26::Leganés::26::26::football
+player27::Cádiz::27::27::football
+player28::Elche::28::28::football
+player29::Oviedo::29::29::football
+messi::barcelona::34::456::football
+asf::sadf::3::3::football
+v::A::8::0::football
+abc::sfgdg::5::7::football
+asfds::B::8::3::football
+player1::sfgfg::65::4::football
+player1::B::45::21::football

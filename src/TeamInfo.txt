@@ -1,0 +1,29 @@
+Atlético Madrid::stadium2::2::color2
+Real Madrid::stadium3::3::color3
+Valladolid::stadium4::4::color4
+Valencia::stadium5::5::color5
+Girona::stadium6::6::color6
+Rayo Vallecano::stadium7::7::color7
+Barcelona::stadium8::8::color8
+Eibar::stadium9::9::color9
+Alavés::stadium10::10::color10
+Reus::stadium11::11::color11
+Lugo::stadium12::12::color12
+Numancia::stadium13::13::color13
+Tenerife::stadium14::14::color14
+Osasuna::stadium15::15::color15
+Málaga::stadium16::16::color16
+Córdoba::stadium17::17::color17
+Extremadura::stadium18::18::color18
+Las Palmas::stadium19::19::color19
+Deportivo::stadium20::20::color20
+Cádiz::stadium21::21::color21
+Elche::stadium22::22::color22
+Oviedo::stadium23::23::color23
+Real Sociedad::anoeta::4::blue/white
+
+A::a::0::A
+B::fgj::5::sfrdgh
+player::asrgf::8::awrg
+ghs::hfkc::4::jgkf
+hfgf::gf::7::trst
